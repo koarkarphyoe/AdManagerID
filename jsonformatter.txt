@@ -1,0 +1,21 @@
+{
+  "appadsid": {
+    "adsid": [
+      {
+        "id": "1",
+        "adsname": "banner",
+        "adsunitid": "/6499/example/banner"
+      },
+      {
+        "id": "2",
+        "adsname": "interstitial",
+        "adsunitid": "/6499/example/interstitial"
+      },
+      {
+        "id": "3",
+        "adsname": "openads",
+        "adsunitid": "/6499/example/app-open"
+      }
+    ]
+  }
+}
