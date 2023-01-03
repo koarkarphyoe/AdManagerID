@@ -3,8 +3,8 @@
     "adsid": [
       {
         "id": 1,
-        "bannerads": "/211182487/ca-mb-app-pub-2726428685015992/tv.mediachannels.com_Banner_320x50",
-        "interstitialads": "/211182487/ca-mb-app-pub-2726428685015992/tv.mediachannels.com_Interstitial_320x480",
+        "bannerads": "",
+        "interstitialads": "",
         "openads": "/211182487/ca-mb-app-pub-2726428685015992/tv.mediachannels.com_AppOpen_320x480"
       }
     ]
